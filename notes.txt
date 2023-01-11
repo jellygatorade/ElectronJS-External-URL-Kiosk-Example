@@ -1,0 +1,4 @@
+Electron
+
+npm start
+npm run package-win
